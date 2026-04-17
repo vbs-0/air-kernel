@@ -1,0 +1,12 @@
+mtk_scpsys.ko
+clk_common.ko
+mtk_mbox.ko
+mtk_tinysys_ipi.ko
+mtk_mmdvfs.ko
+mmqos_common.ko
+mtk_dvfsrc.ko
+mtk_sync.ko
+mtk_mml.ko
+mtk_cmdq_drv_ext.ko
+mtk_iommu.ko
+ufs_mediatek_mod.ko
